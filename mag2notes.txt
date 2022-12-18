@@ -1,0 +1,22 @@
+ordered list                - ol tag
+all items should be in      - li tag
+
+description Tag:
+<!-- 
+Magesh
+    this is alldskfnsdkfsal askldfmasmf 
+Earth
+    this is the beautiful planet
+Question1                           - dt
+    as=nswer will be written here   - dd
+-->
+
+
+Asssignment-
+
+1. to create the table given in GUVI
+
+2. 
+table data - > <th></th> 
+table body - > <tbody></tbody>
+table head - > <thead></thead>
